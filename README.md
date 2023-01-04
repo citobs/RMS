@@ -11,3 +11,4 @@ Recommend Movie System(영화추천시스템)개발
 
 # 선형회귀 학습시작
 - LR(직선과 잔차) 학습시작
+- 사이킷런 import
