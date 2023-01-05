@@ -28,4 +28,7 @@ Recommend Movie System(영화추천시스템)개발
   
 # 다중회귀분석 학습시작
 - MultipleLinearRegression.ipynb
-- 
+- 완료
+
+# 다항회귀분석 학습시작
+- PolynomialRegression.ipynb(우등생구분)
