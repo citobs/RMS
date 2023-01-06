@@ -39,3 +39,5 @@ Recommend Movie System(영화추천시스템)개발
 - 학습완료
 
 # ETC. Kmeans등 학습시작
+ - 05.K-Means.ipynb 파일
+ - 학습완료
