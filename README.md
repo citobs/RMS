@@ -41,3 +41,7 @@ Recommend Movie System(영화추천시스템)개발
 # ETC. Kmeans등 학습시작
  - 05.K-Means.ipynb 파일
  - 학습완료
+
+# 영화추천시스템 제작 시작
+- TMDB 5000(캐글) 활용
+- 4가지 측면에서분석시작
