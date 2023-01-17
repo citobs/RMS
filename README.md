@@ -46,3 +46,4 @@ Recommend Movie System(영화추천시스템)개발
 - TMDB 5000(캐글) 활용
 - 4가지 측면에서분석시작
 - 최종개발종료
+- 최종산출물 파일(RMS폴더) : RMS.ipynb
